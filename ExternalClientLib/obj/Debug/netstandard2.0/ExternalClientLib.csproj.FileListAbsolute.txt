@@ -7,3 +7,12 @@ C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\Ex
 C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.dll
 C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.pdb
 C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.csprojAssemblyReference.cache
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.deps.json
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.dll
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.pdb
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.csprojAssemblyReference.cache
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.AssemblyInfo.cs
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.dll
+C:\Users\Никита\Documents\GitHub\SobesFirstTaskRepos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.pdb

@@ -6,8 +6,8 @@ using ExternalClientLib;
 namespace SobTaskUTest
 {
     [TestClass]
-    public class SobTest1
-    {
+    public class SobTest1     //Каждый из дальнейших тестов преставляет собой проверку типа "ожидание/реальность". Подаем значения и сверяем полученный в ходе отработки результата с ожидаемым результатом.
+    {                         //Половина тестов отрабатывают успешно, а половина нет, потому что я так же провожу проверку на исключения.
         [TestMethod]
         public void TestMethod1_True_Triang()
         {
