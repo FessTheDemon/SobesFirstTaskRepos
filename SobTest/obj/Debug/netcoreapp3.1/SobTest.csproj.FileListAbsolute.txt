@@ -1,0 +1,16 @@
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.exe
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.deps.json
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.runtimeconfig.json
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.runtimeconfig.dev.json
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.dll
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\SobTest.pdb
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.AssemblyInfo.cs
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.dll
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.pdb
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.genruntimeconfig.cache
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\ExternalClientLib.dll
+C:\Users\Никита\source\repos\SobTest\bin\Debug\netcoreapp3.1\ExternalClientLib.pdb
+C:\Users\Никита\source\repos\SobTest\obj\Debug\netcoreapp3.1\SobTest.csproj.CopyComplete

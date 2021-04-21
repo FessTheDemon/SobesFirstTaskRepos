@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SobTest/1.0.0": {
+        "dependencies": {
+          "ExternalClientLib": "1.0.0"
+        },
+        "runtime": {
+          "SobTest.dll": {}
+        }
+      },
+      "ExternalClientLib/1.0.0": {
+        "runtime": {
+          "ExternalClientLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExternalClientLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

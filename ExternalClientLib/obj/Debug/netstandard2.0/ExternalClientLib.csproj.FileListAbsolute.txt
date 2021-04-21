@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.deps.json
+C:\Users\Никита\source\repos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.dll
+C:\Users\Никита\source\repos\ExternalClientLib\bin\Debug\netstandard2.0\ExternalClientLib.pdb
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.AssemblyInfo.cs
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.dll
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.pdb
+C:\Users\Никита\source\repos\ExternalClientLib\obj\Debug\netstandard2.0\ExternalClientLib.csprojAssemblyReference.cache
