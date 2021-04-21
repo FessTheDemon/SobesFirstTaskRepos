@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj": {}
+    "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj": {
+    "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj",
+        "projectUniqueName": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj",
         "projectName": "ExternalClientLib",
-        "projectPath": "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj",
+        "projectPath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj",
         "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\obj\\",
+        "outputPath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

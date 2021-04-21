@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Никита\\source\\SobesTestRepos\\SobTest\\SobTest.csproj",
+      "projectUniqueName": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\SobTest\\SobTest.csproj",
       "projectName": "SobTest",
-      "projectPath": "C:\\Users\\Никита\\source\\SobesTestRepos\\SobTest\\SobTest.csproj",
+      "projectPath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\SobTest\\SobTest.csproj",
       "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Никита\\source\\SobesTestRepos\\SobTest\\obj\\",
+      "outputPath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\SobTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj": {
-              "projectPath": "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj"
+            "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj": {
+              "projectPath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj"
             }
           }
         }

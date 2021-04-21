@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpbFRggJ1lhUJ+s+72N0JevubTPrAcdfaGTN2hOSTZQ+3Iw8XJMEEjp2qkXH/SFsN3of2I7iP+vrzfwzVRJekw==",
+  "dgSpecHash": "bvmCx4nzAlZX98jioHVZPoGivSVQ3Y9CMvdTGgm1Y8JxfQFcqp0jLE1X7lg2KVK3QFlZF0M7yKL0A1OT74g1DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Никита\\source\\SobesTestRepos\\ExternalClientLib\\ExternalClientLib.csproj",
+  "projectFilePath": "C:\\Users\\Никита\\Documents\\GitHub\\SobesFirstTaskRepos\\ExternalClientLib\\ExternalClientLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

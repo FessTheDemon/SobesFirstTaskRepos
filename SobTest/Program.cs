@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using ExternalClientLib;
 
 namespace SobTest
@@ -11,12 +13,11 @@ namespace SobTest
         }
         static void Main(string[] args)
         {
-            double a, b, c, r;
+            double r;
             Console.WriteLine("Введите стороны треугольника: ");
-            a = Convert.ToDouble(Console.ReadLine());
-            b = Convert.ToDouble(Console.ReadLine());
-            c = Convert.ToDouble(Console.ReadLine());
-            Triangle three = new Triangle(a, b, c);
+            List<Double> numbers = Console.ReadLine().Split().Select(Double.Parse).ToList();
+
+            Triangle three = new Triangle(numbers[0], numbers[1], numbers[2]);
             GetArea(three);
 
 
